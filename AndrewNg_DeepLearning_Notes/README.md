@@ -19,12 +19,21 @@
   + Vectorized backward propogation
   + Random initialization 
 
+- [WEEK4: Deep Neural Networks](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/AndrewNg_DeepLearning_Notes/WEEK4-Deep%20Neural%20Network.pdf)
+  + Deep L-layer neural network  
+  + Why deep ? circuit theory 
+  + Building blocks for deep neural networks 
+  + Forward and backward propogation 
+  + Parameters and hyperparameters 
+  
+  
 ## Create  
 20180303  
 NOTABILITY Version 7.2 by &copy Ginger Labs, Inc.  
 
 ## Last update  
-Mar. 04, 2018   
+Mar. 10, 2018   
+
 
 ## Claim of rights  
 All original lecture content copy rights belongs to Andrew Ng, the lecture notes and and summarization are based on the lecture contents and free to use and distribute according to GPL.
