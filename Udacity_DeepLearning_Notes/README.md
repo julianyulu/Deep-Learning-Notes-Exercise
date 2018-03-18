@@ -1,5 +1,5 @@
 # Deap Learning Notes from Udacity class  
-This content is based on the Udacity class "Deep learning"  
+This content is based on the Udacity class "Deep learning", by Vincent Vanhoucke, google research scientist.  
 
 # Table of Content  
 - [Lesson1: From Machine Learning to Deep Learning](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_DeepLearning_Notes/LESSON1-From%20Machine%20Learning%20to%20Deep%20Learning.pdf)
@@ -13,11 +13,18 @@ This content is based on the Udacity class "Deep learning"
   + Stochastic Gradient Descent (SGD)
   + ADGARD
 
-- [Lession2: Deep Neural Networks](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_DeepLearning_Notes/LESSON2-Deep%20Neural%20Networks.pdf)
+- [Lesson2: Deep Neural Networks](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_DeepLearning_Notes/LESSON2-Deep%20Neural%20Networks.pdf)
   + Linear model, ReLU
   + The chain rule 
   + Regularization: L2, Dropout
-  
+
+- [Lesson3: Convolutional Neural Networks](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_DeepLearning_Notes/LESSON3-Convolutional%20Neural%20Networks.pdf)
+  + Statistical invariance 
+  + Convolutional networks 
+  + Valid padding, same padding 
+  + Max pooling, averaging pooling
+  + 1 x 1 convolutions 
+  + Inception model 
 
 # Create  
 Create: Mar. 03, 2018  
