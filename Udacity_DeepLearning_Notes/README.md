@@ -12,9 +12,16 @@ This content is based on the Udacity class "Deep learning"
   + Overfitting 
   + Stochastic Gradient Descent (SGD)
   + ADGARD
+
+- [Lession2: Deep Neural Networks](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_DeepLearning_Notes/LESSON2-Deep%20Neural%20Networks.pdf)
+  + Linear model, ReLU
+  + The chain rule 
+  + Regularization: L2, Dropout
   
+
 # Create  
-Mar. 03, 2018  
+Create: Mar. 03, 2018  
+Last update: Mar. 18, 2018
 NOTABILITY Version 7.2 by &copy Ginger Labs, Inc.  
 
 # Claim of rights  
