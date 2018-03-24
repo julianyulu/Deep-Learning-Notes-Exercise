@@ -1,6 +1,7 @@
-# Neural Networks and Deep Learn Notes   
+# Neural Networks and Deep Learning Notes   
 ## Source  
-- Coursera Andrew Ng class, from deeplearning.ai  
+Coursera Andrew Ng class, "Deep Learning Specialization", Course2 "Neural Networks and Deep Leanring", from deeplearning.ai  
+
 ## Table of Content  
 - [WEEK1: Intro to Deep Learning](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/AndrewNg_DeepLearning_Notes/Course1-Neural%20Networks%20and%20Deep%20Learning/WEEK1-Intro%20to%20Deep%20Learning.pdf)
   + What is neural network 
@@ -28,7 +29,7 @@
   
   
 ## Create  
-20180324  
+20180210  
 NOTABILITY Version 7.2 by &copy Ginger Labs, Inc.  
 
 ## Last update  
