@@ -17,7 +17,7 @@ Notes for Udacity class "Deep Learning"
   + Exercise from: Udacity Lesson 1 
   + Finish: 2018/02/28
 
-- [fully connected Neural Network]
+- [fully connected Neural Network](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_2_fullyconnected.ipynb)
   + Implement on notMINST dataset
   + Fully connected NN with 1 hidden layer and 10 neurons
   + Implement ReLU as activation function
