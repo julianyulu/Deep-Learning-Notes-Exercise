@@ -15,16 +15,26 @@ Notes for Udacity class "Deep Learning"
   + Logistic regression on nontMINST dataset
   + Library used Scikit-Learn 
   + Exercise from: Udacity Lesson 1 
-  + Finish: 2018/02/28
+  + Finished: 2018/02/28
 
-- [fully connected Neural Network](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_2_fullyconnected.ipynb)
+- [Fully connected Neural Network](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_2_fullyconnected.ipynb)
   + Implement on notMINST dataset
   + Fully connected NN with 1 hidden layer and 10 neurons
   + Implement ReLU as activation function
   + SGD as the optimizer
   + Exercise from Udacity Lesson 2
-  + Finish 2018/03/16
+  + Finished: 2018/03/16
   
+- [Neural Network Regularization](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_3_regularization.ipynb)
+  + Compare logistic regression with 1 layer neural network 
+  + SGD as the optimizer 
+  + Implement L2 norm regularization
+  + Implement droupout regularization
+  + Implement learning rate decay 
+  + Exercise from Udacity Lesson 3
+  + Finished: 2018/03/17
+
+
 ### Practice JupyterNBs --- Coursera
 - [Planar_data_classification_with_one_hidden_layer_v5.ipynb](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Coursera_Planar_data_classification_with_one_hidden_layer_v5.ipynb)
   + Neural Network with 1 hidden laryer and configurable number of neurons 
