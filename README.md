@@ -32,8 +32,16 @@ Notes for Udacity class "Deep Learning"
   + Implement droupout regularization
   + Implement learning rate decay 
   + Exercise from Udacity Lesson 3
-  + Finished: 2018/03/17
+  + Finished: 2018/06/17
 
+- [Convolutional Neural Network (CNN)](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_4_convolutions.ipynb)  
+  + CNN on notMINST dataset 
+  + Apply max padding 
+  + Improve CNN with max pooling 
+  + Implement LeNet (to be done)
+  + Exercise from Udacity Lesson 4
+  + Half finished: 2018/06/17
+  
 
 ### Practice JupyterNBs --- Coursera
 - [Planar_data_classification_with_one_hidden_layer_v5.ipynb](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Coursera_Planar_data_classification_with_one_hidden_layer_v5.ipynb)
