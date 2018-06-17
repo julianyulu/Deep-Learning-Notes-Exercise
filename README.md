@@ -4,16 +4,28 @@ My notes on deep learning, from online courses on Coursera and Udacity
 ## Table of Content  
 ### [AndrewNg_DeepLearning_Notes](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/AndrewNg_DeepLearning_Notes)  
 Notes for Coursera class "Deep Learning" by Andrew Ng  
+- [Table of contents](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/AndrewNg_DeepLearning_Notes)  
 
 ### [Udacity_DeepLearning_Notes](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/Udacity_DeepLearning_Notes)  
 Notes for Udacity class "Deep Learning"  
+- [Table of contents](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/Udacity_DeepLearning_Notes)  
 
-### Jupyter Notebooks  
-- [notMINST.ipynb](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_notMINST.ipynb)
+### Practice JupyterNBs --- Udacity
+- [notMINST](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_1_notMINST.ipynb)
   + Logistic regression on nontMINST dataset
   + Library used Scikit-Learn 
   + Exercise from: Udacity Lesson 1 
   + Finish: 2018/02/28
+
+- [fully connected Neural Network]
+  + Implement on notMINST dataset
+  + Fully connected NN with 1 hidden layer and 10 neurons
+  + Implement ReLU as activation function
+  + SGD as the optimizer
+  + Exercise from Udacity Lesson 2
+  + Finish 2018/03/16
+  
+### Practice JupyterNBs --- Coursera
 - [Planar_data_classification_with_one_hidden_layer_v5.ipynb](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Coursera_Planar_data_classification_with_one_hidden_layer_v5.ipynb)
   + Neural Network with 1 hidden laryer and configurable number of neurons 
   + Classfication of data from a generated artifical flower 
