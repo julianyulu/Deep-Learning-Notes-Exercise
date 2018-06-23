@@ -13,6 +13,14 @@ Coursera Andrew Ng class, "Deep Learning Specialization", Course2 "Improving Dee
   + Weight random initialization 
   + Gradient checking
 
+- [WEEK2: Optimization Algorithms](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/AndrewNg_DeepLearning_Notes/Course2-Improving%20Deep%20Neural%20Networks/Week2-Optimization%20Algorithms.pdf)
+  + Mini-batch gradient descent
+  + Expontially weighted averages & bias correction 
+  + Gradient descent with momentum 
+  + RMSprop
+  + Adam Algorithm 
+  + Learning rate decay
+  + Problem of local optimal, plateaus
   
   
 ## Create  
@@ -20,7 +28,7 @@ Coursera Andrew Ng class, "Deep Learning Specialization", Course2 "Improving Dee
 NOTABILITY Version 7.2 by &copy Ginger Labs, Inc.  
 
 ## Last update  
-Mar. 24, 2018   
+Jun. 23, 2018   
 
 
 ## Claim of rights  
