@@ -6,7 +6,6 @@ For classical Machine Learning notes, please see repo: [Machine-Learning-Notes](
 ------  
 
 ### [AndrewNg_DeepLearning_Notes](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/AndrewNg_DeepLearning_Notes)  
-------  
 
 Notes for Coursera class "Deep Learning" by Andrew Ng  
 - Course1-Neural Networks and Deep Learning  
@@ -14,7 +13,6 @@ Notes for Coursera class "Deep Learning" by Andrew Ng
 - Course3-Structuring Machine Learning Projects(In progress)  
 
 ### [Udacity_DeepLearning_Notes](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/Udacity_DeepLearning_Notes)  
-------  
 
 Notes for Udacity class "Deep Learning"  
 - Lesson1: From Machine Learning to Deep Learning

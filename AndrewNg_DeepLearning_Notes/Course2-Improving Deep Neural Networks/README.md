@@ -21,7 +21,7 @@ Coursera Andrew Ng class, "Deep Learning Specialization", Course2 "Improving Dee
   + Adam Algorithm 
   + Learning rate decay
   + Problem of local optimal, plateaus
-- [WEEK3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks]
+- [WEEK3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/AndrewNg_DeepLearning_Notes/Course2-Improving%20Deep%20Neural%20Networks/Week3-Hyperparameter%20Tuning%20Batch%20Normalization%20and%20Programming%20Frameworks.pdf)
   + Hyperparameter tuning process, suggestions 
   + Batch normalization and realization in NN
   + Softmax multi-class classification 
