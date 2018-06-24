@@ -21,6 +21,12 @@ Coursera Andrew Ng class, "Deep Learning Specialization", Course2 "Improving Dee
   + Adam Algorithm 
   + Learning rate decay
   + Problem of local optimal, plateaus
+- [WEEK3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks]
+  + Hyperparameter tuning process, suggestions 
+  + Batch normalization and realization in NN
+  + Softmax multi-class classification 
+  + Deep learning frameworks, TensorFlow
+
   
   
 ## Create  
@@ -28,8 +34,9 @@ Coursera Andrew Ng class, "Deep Learning Specialization", Course2 "Improving Dee
 NOTABILITY Version 7.2 by &copy Ginger Labs, Inc.  
 
 ## Last update  
-Jun. 23, 2018   
+Jun. 24, 2018   
 
-
+## Finished on
+Jun. 24, 2018
 ## Claim of rights  
 All original lecture content copy rights belongs to Andrew Ng, the lecture notes and and summarization are based on the lecture contents and free to use and distribute according to GPL.

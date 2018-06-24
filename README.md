@@ -1,16 +1,30 @@
 # Deep Learnig Notes and Exercise  
-My notes on deep learning, from online courses on Coursera and Udacity   
+Collection of my hand written notes on deep learning online courses Coursera and Udacity   
+For classical Machine Learning notes, please see repo: [Machine-Learning-Notes](https://github.com/SuperYuLu/Machine-Learning-Notes)  
 
 ## Table of Content  
+------  
+
 ### [AndrewNg_DeepLearning_Notes](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/AndrewNg_DeepLearning_Notes)  
+------  
+
 Notes for Coursera class "Deep Learning" by Andrew Ng  
-- [Table of contents](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/AndrewNg_DeepLearning_Notes)  
+- Course1-Neural Networks and Deep Learning  
+- Course2-Improving Deep Neural Networks  
+- Course3-Structuring Machine Learning Projects(In progress)  
 
 ### [Udacity_DeepLearning_Notes](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/Udacity_DeepLearning_Notes)  
+------  
+
 Notes for Udacity class "Deep Learning"  
-- [Table of contents](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/tree/master/Udacity_DeepLearning_Notes)  
+- Lesson1: From Machine Learning to Deep Learning
+- Lesson2: Deep Neural Networks
+- Lesson3: Convolutional Neural Networks
+
 
 ### Practice JupyterNBs --- Udacity
+------  
+
 - [notMINST](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Udacity_1_notMINST.ipynb)
   + Logistic regression on nontMINST dataset
   + Library used Scikit-Learn 
@@ -44,6 +58,8 @@ Notes for Udacity class "Deep Learning"
   
 
 ### Practice JupyterNBs --- Coursera
+------  
+
 - [Planar_data_classification_with_one_hidden_layer_v5.ipynb](https://github.com/SuperYuLu/Deep-Learning-Notes-Exercise/blob/master/Coursera_Planar_data_classification_with_one_hidden_layer_v5.ipynb)
   + Neural Network with 1 hidden laryer and configurable number of neurons 
   + Classfication of data from a generated artifical flower 
